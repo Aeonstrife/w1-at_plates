@@ -11,5 +11,5 @@ The `./dxf_files` folder contains the KiCAD files for the Aluminium plates
 
 
 ## Disclaimer  
-The KiCAD files are of my authorship. Everything is licensed under the MIT License. Even so, please contact Geon before using them commercially.  
-I provide these files without liability and without any guarantees regarding functionality, as expressed in the MIT license under which all of these files are licensed.  
+The DXF files are of my authorship. Everything is licensed under the MIT License. Even so, please contact Geon before using them commercially.  
+I provide these files without liability and without any guarantees regarding functionality.

@@ -4,7 +4,7 @@
 Plate files for Geonworks [W1-AT keyboard](https://geon.works/pages/w1-at)  
 
 ## Structure  
-The `./dxf_files` folder contains the KiCAD files for the Aluminium plates  
+The `./dxf_files` folder contains the DXF files for the Aluminium plates  
 
 ## Pictures
 ![w1-at](pics/w1-at.png "w1=at")
